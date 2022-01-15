@@ -8,7 +8,7 @@
 
 - 🔭 Covid Tracker India Project **[Covid-19 Tracker](https://my-covid-tracker-india.herokuapp.com/)**
 
-- 👨‍💻 Salary Predictor Project **[US Salary Predictor](https://subhamraoniar.com)**
+- 👨‍💻 Salary Predictor Project **[US Salary Predictor](https://us-salary-predictor.herokuapp.com/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
